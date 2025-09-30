@@ -1,6 +1,7 @@
 
-#Get the Job Description on txt file and pass the path
-#Get the CV file and pass the path
+# Get the Job Description on txt file and pass the path
+
+# Get the CV file and pass the path
 
 
 # Hr Crew
