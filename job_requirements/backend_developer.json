@@ -1,0 +1,35 @@
+{
+  "id": "backend_developer",
+  "title": "Backend Developer",
+  "years_experience_min": 3,
+  "must_have": [
+    "Server-side language (Node.js/Go/Java/Python)",
+    "Databases (SQL or NoSQL)",
+    "RESTful API design"
+  ],
+  "nice_to_have": [
+    "Message queues (Kafka/RabbitMQ)",
+    "Terraform",
+    "Monitoring/metrics"
+  ],
+  "degree": "BSc in Computer Science or equivalent",
+  "responsibilities": [
+    "Build and maintain server-side services",
+    "Optimize DB queries and design schemas",
+    "Ensure reliability and observability"
+  ],
+  "keywords": [
+    "node",
+    "go",
+    "express",
+    "gin",
+    "sql",
+    "mongodb",
+    "kafka",
+    "redis",
+    "docker",
+    "postgresql",
+    "terraform",
+    "ci/cd"
+  ]
+}

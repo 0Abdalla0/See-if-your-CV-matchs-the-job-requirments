@@ -1,0 +1,26 @@
+# Maya Fahmy — Backend Developer
+
+Maya Fahmy
+Email: maya.fahmy@example.com | Phone: +20 100 000 0003 | Remote (Egypt)
+GitHub: github.com/mayafahmy-fake
+
+Summary
+Backend developer specializing in scalable systems, databases, and API design. 6 years experience in Node.js and Go.
+
+Experience
+Backend Engineer — CloudNest — May 2020 – Present
+- Implemented high-throughput event processing pipeline using Kafka and Go.
+- Designed database schemas and optimized queries; cut DB costs by 25%.
+
+Software Developer — DataLogix — Jan 2017 – Apr 2020
+- Built RESTful APIs in Node.js (Express); integrated with third-party payment gateways.
+- Wrote data migration scripts and maintained CI/CD workflows.
+
+Education
+MSc, Distributed Systems — Ain Shams University — 2019
+
+Skills
+Go, Node.js, SQL, NoSQL (MongoDB), Kafka, Docker, Redis, Terraform
+
+Languages
+Arabic (native), English (fluent)

@@ -1,0 +1,40 @@
+{
+  "id": "software_engineer",
+  "title": "Software Engineer",
+  "years_experience_min": 3,
+  "must_have": [
+    "Python or Java",
+    "REST API design",
+    "SQL",
+    "Git"
+  ],
+  "nice_to_have": [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Microservices",
+    "CI/CD"
+  ],
+  "degree": "BSc in Computer Science or equivalent",
+  "responsibilities": [
+    "Design, implement and maintain backend services",
+    "Participate in code reviews and mentoring",
+    "Collaborate with product and QA to deliver features"
+  ],
+  "keywords": [
+    "python",
+    "java",
+    "spring",
+    "flask",
+    "rest",
+    "api",
+    "postgresql",
+    "mysql",
+    "docker",
+    "kubernetes",
+    "aws",
+    "microservices",
+    "ci/cd",
+    "github actions"
+  ]
+}

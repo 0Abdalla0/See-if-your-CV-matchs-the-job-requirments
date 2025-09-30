@@ -1,0 +1,29 @@
+{
+  "id": "uxui_designer",
+  "title": "UX/UI Designer",
+  "years_experience_min": 2,
+  "must_have": [
+    "Figma or Sketch",
+    "Prototyping",
+    "User research"
+  ],
+  "nice_to_have": [
+    "Design systems",
+    "Front-end basics (HTML/CSS)"
+  ],
+  "degree": "Degree in Design or related field",
+  "responsibilities": [
+    "Design user-centered interfaces and prototypes",
+    "Conduct usability testing and research",
+    "Maintain design system"
+  ],
+  "keywords": [
+    "figma",
+    "sketch",
+    "prototyping",
+    "usability testing",
+    "design system",
+    "ux research",
+    "adobe xd"
+  ]
+}

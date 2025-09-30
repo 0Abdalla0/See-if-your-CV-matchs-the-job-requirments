@@ -1,0 +1,32 @@
+{
+  "id": "sre_engineer",
+  "title": "Site Reliability Engineer (SRE)",
+  "years_experience_min": 3,
+  "must_have": [
+    "Linux systems",
+    "SLOs/SLIs and monitoring",
+    "Kubernetes or orchestration"
+  ],
+  "nice_to_have": [
+    "Chaos engineering",
+    "Capacity planning",
+    "Distributed systems"
+  ],
+  "degree": "BSc in Computer Science or equivalent",
+  "responsibilities": [
+    "Define and measure reliability targets",
+    "Automate incident response and runbooks",
+    "Improve system scalability and resilience"
+  ],
+  "keywords": [
+    "slo",
+    "sli",
+    "kubernetes",
+    "prometheus",
+    "grafana",
+    "linux",
+    "ansible",
+    "chaos engineering",
+    "capacity planning"
+  ]
+}

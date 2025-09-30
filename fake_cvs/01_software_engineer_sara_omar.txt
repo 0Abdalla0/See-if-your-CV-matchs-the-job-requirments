@@ -1,0 +1,31 @@
+Sara Omar
+Email: sara.omar@example.com | Phone: +20 100 000 0001 | Cairo, Egypt
+LinkedIn: linkedin.com/in/sara-omar-fake | GitHub: github.com/sara-omar-fake
+
+Summary
+Experienced Software Engineer with 5 years building scalable web services and REST APIs. Strong in Python, Java, and cloud-native architectures.
+
+Experience
+Senior Software Engineer — NileTech (Cairo, Egypt) — Jan 2022 – Present
+- Designed and implemented microservices for billing platform using Spring Boot and Docker.
+- Reduced API latency by 40% through profiling and optimization.
+- Mentored 4 junior engineers and led code review process.
+
+Software Engineer — Atlas Apps — Jul 2019 – Dec 2021
+- Built backend services in Python (Flask) and PostgreSQL; implemented OAuth2 authentication.
+- Introduced CI pipeline with GitHub Actions, reducing deployment time by 30%.
+
+Education
+BSc, Computer Science — Cairo University — 2015 – 2019
+
+Skills
+Languages: Python, Java, SQL, JavaScript
+Tools: Docker, Kubernetes, Git, PostgreSQL, Redis, GitHub Actions
+Cloud: AWS (EC2, RDS, S3)
+
+Projects
+- Real-time notification service (WebSockets + Redis Pub/Sub).
+- Open-source command-line tool for CSV processing (100+ stars).
+
+Languages
+Arabic (native), English (fluent)

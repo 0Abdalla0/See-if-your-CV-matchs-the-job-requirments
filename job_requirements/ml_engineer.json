@@ -1,0 +1,34 @@
+{
+  "id": "ml_engineer",
+  "title": "Machine Learning Engineer",
+  "years_experience_min": 3,
+  "must_have": [
+    "Python",
+    "PyTorch or TensorFlow",
+    "Model deployment (Docker/Serving)"
+  ],
+  "nice_to_have": [
+    "ONNX",
+    "CUDA",
+    "MLflow",
+    "Edge optimization"
+  ],
+  "degree": "MSc preferred (or proven experience)",
+  "responsibilities": [
+    "Train and optimize ML models",
+    "Build scalable inference pipelines",
+    "Collaborate with data scientists and engineers"
+  ],
+  "keywords": [
+    "pytorch",
+    "tensorflow",
+    "onnx",
+    "cuda",
+    "mlflow",
+    "fastapi",
+    "torchscript",
+    "docker",
+    "kubernetes",
+    "inference"
+  ]
+}

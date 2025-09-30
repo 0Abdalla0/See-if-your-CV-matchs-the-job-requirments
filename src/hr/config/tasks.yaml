@@ -1,0 +1,46 @@
+CVReader_task:
+  description: >
+    Review the {CV} and extract structured data points such as employment history, dates, job titles, skills, certifications, and measurable achievements.
+    Ignore fluff or decorative language. Keep only quantifiable and verifiable data.
+  expected_output: >
+    A structured dataset (YAML/JSON table-like format) with keys for personal info,
+    work history, education, skills, certifications, and measurable results.
+  agent: CVReaderAgent
+
+JobFitting_task:
+  description: >
+    Compare the extracted {CV} dataset with the {JobDescription}.
+    Score compliance against must-have and weighted requirements.
+    Identify gaps, missing qualifications, and mismatched years of experience or skills.
+  expected_output: >
+    A compliance scoring report showing:
+    - Overall score
+    - Pass/Fail status for mandatory requirements
+    - Weighted score breakdown
+    - List of skill/experience gaps
+  agent: JobFittingAgent
+
+AlternativeClassifier_task:
+  description: >
+    If the candidate does not fit the primary {JobDescription},
+    scan the {CV} against all {JobTitlesList} to find alternative matches.
+    Use semantic skill alignment to map transferable skills across roles.
+  expected_output: >
+    A list of alternative job titles ranked by best fit,
+    with a skill alignment explanation for each match (e.g., Finance → Ops mapping).
+  agent: AlternativeClassifierAgent
+
+Reporting_task:
+  description: >
+    Synthesize outputs from CVReaderAgent, JobFittingAgent, and AlternativeClassifierAgent.
+    Create a one-page advisory summary for a hiring manager.
+    Highlight candidate’s fit score, gaps, and potential alternative roles.
+    Anticipate common recruiter questions: (Score? Gaps? Red flags? Alternative matches?).
+  expected_output: >
+    An executive summary in markdown format containing:
+    - Candidate snapshot
+    - Compliance scorecard
+    - Key strengths and gaps
+    - Recommended interview questions
+    - Suggested alternative job matches
+  agent: ReportingAgent

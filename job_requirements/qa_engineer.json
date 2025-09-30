@@ -1,0 +1,30 @@
+{
+  "id": "qa_engineer",
+  "title": "QA Engineer",
+  "years_experience_min": 2,
+  "must_have": [
+    "Test automation (Selenium/Playwright)",
+    "Test plan creation",
+    "Bug tracking tools"
+  ],
+  "nice_to_have": [
+    "Performance testing (JMeter)",
+    "API testing (Postman)"
+  ],
+  "degree": "Degree in CS or related field",
+  "responsibilities": [
+    "Create and maintain automated test suites",
+    "Plan and execute manual and exploratory tests",
+    "Report and track defects"
+  ],
+  "keywords": [
+    "selenium",
+    "playwright",
+    "postman",
+    "jmeter",
+    "testrail",
+    "test automation",
+    "ci/cd",
+    "pytest"
+  ]
+}

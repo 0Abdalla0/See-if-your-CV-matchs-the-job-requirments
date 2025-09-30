@@ -1,0 +1,28 @@
+# Frontend Developer
+
+**Minimum years experience:** 2
+
+**Required:**
+
+- HTML/CSS
+- JavaScript (ES6+)
+- React or Vue
+
+**Nice to have:**
+
+- TypeScript
+- Accessibility (WCAG)
+- Performance optimization
+- Unit testing
+
+**Degree:** BSc in Software Engineering or equivalent
+
+**Responsibilities:**
+
+- Implement responsive, accessible UIs
+- Create reusable UI components and stories
+- Work with designers to polish UX
+
+**Keywords for automated matching:**
+
+react, vue, javascript, typescript, html, css, tailwind, next.js, vite, webpack, lighthouse, accessibility, jest, rtl

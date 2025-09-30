@@ -1,0 +1,29 @@
+# Data Scientist
+
+**Minimum years experience:** 2
+
+**Required:**
+
+- Python
+- pandas
+- scikit-learn
+- SQL
+
+**Nice to have:**
+
+- XGBoost
+- Deep learning
+- Airflow
+- model deployment experience
+
+**Degree:** BSc in Statistics/CS/Math or equivalent
+
+**Responsibilities:**
+
+- Build predictive models and run experiments
+- Perform feature engineering and analysis
+- Deploy and monitor models in production
+
+**Keywords for automated matching:**
+
+python, pandas, scikit-learn, xgboost, tensorflow, pytorch, sql, airflow, etl, feature engineering, a/b testing

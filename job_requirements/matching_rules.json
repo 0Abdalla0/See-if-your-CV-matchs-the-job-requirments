@@ -1,0 +1,10 @@
+{
+  "description": "Simple matching rules to score a CV against a job requirement.\nScoring suggestion:\n- +3 points for each 'must_have' skill found (match by keyword)\n- +1 point for each 'nice_to_have' found\n- +2 points if years_experience >= years_experience_min\n- +2 points if degree matches or is close\n- Normalize score to percentage by dividing by maximum possible and multiplying by 100\n",
+  "algorithm": {
+    "must_have_weight": 3,
+    "nice_to_have_weight": 1,
+    "experience_weight": 2,
+    "degree_weight": 2
+  },
+  "notes": "Match keywords case-insensitively. Keywords lists are included in each job JSON under 'keywords'."
+}

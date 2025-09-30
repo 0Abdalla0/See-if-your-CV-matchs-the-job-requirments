@@ -1,0 +1,31 @@
+{
+  "id": "product_manager",
+  "title": "Product Manager (Tech)",
+  "years_experience_min": 2,
+  "must_have": [
+    "Product roadmap experience",
+    "Stakeholder communication",
+    "Data-driven decision making"
+  ],
+  "nice_to_have": [
+    "A/B testing",
+    "SQL or analytics tools",
+    "SaaS experience"
+  ],
+  "degree": "Degree in CS, Business, or equivalent experience",
+  "responsibilities": [
+    "Define product vision and roadmap",
+    "Coordinate cross-functional teams",
+    "Measure success and iterate"
+  ],
+  "keywords": [
+    "roadmap",
+    "product management",
+    "a/b testing",
+    "mixpanel",
+    "amplitude",
+    "jira",
+    "user research",
+    "stakeholder"
+  ]
+}

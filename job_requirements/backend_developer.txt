@@ -1,0 +1,27 @@
+# Backend Developer
+
+**Minimum years experience:** 3
+
+**Required:**
+
+- Server-side language (Node.js/Go/Java/Python)
+- Databases (SQL or NoSQL)
+- RESTful API design
+
+**Nice to have:**
+
+- Message queues (Kafka/RabbitMQ)
+- Terraform
+- Monitoring/metrics
+
+**Degree:** BSc in Computer Science or equivalent
+
+**Responsibilities:**
+
+- Build and maintain server-side services
+- Optimize DB queries and design schemas
+- Ensure reliability and observability
+
+**Keywords for automated matching:**
+
+node, go, express, gin, sql, mongodb, kafka, redis, docker, postgresql, terraform, ci/cd

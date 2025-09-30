@@ -1,0 +1,34 @@
+{
+  "id": "devops_engineer",
+  "title": "DevOps Engineer",
+  "years_experience_min": 3,
+  "must_have": [
+    "Terraform or CloudFormation",
+    "Kubernetes or Docker",
+    "CI/CD pipelines"
+  ],
+  "nice_to_have": [
+    "Prometheus/Grafana",
+    "AWS/GCP/Azure",
+    "Ansible"
+  ],
+  "degree": "BSc in Computer Science or equivalent",
+  "responsibilities": [
+    "Manage IaC and cloud infrastructure",
+    "Automate deployments and observability",
+    "Improve reliability and incident response"
+  ],
+  "keywords": [
+    "terraform",
+    "kubernetes",
+    "docker",
+    "jenkins",
+    "github actions",
+    "aws",
+    "gcp",
+    "ansible",
+    "prometheus",
+    "grafana",
+    "helm"
+  ]
+}

@@ -1,0 +1,28 @@
+# Ali Hassan — Frontend Developer
+
+Ali Hassan
+Email: ali.hassan@example.com | Phone: +20 100 000 0002 | Alexandria, Egypt
+Portfolio: alihassan.design | GitHub: github.com/ali-hassan-fake
+
+Summary
+Creative Frontend Developer focused on performant, accessible, and responsive web UIs. 4 years experience with React and modern CSS.
+
+Experience
+Frontend Developer — BlueWave Studio — Mar 2021 – Present
+- Built reusable React component library used across 5 product teams.
+- Improved Lighthouse performance scores from 58 to 93 for main marketing site.
+- Collaborated with designers to implement accessible interfaces (WCAG 2.1 AA).
+
+Junior Frontend Developer — PixelForge — Aug 2019 – Feb 2021
+- Converted legacy jQuery app to React with TypeScript.
+- Wrote unit and integration tests with Jest and React Testing Library.
+
+Education
+BSc, Software Engineering — Alexandria University — 2016 – 2020
+
+Skills
+HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Webpack, Vite
+Design: Figma, Sketch
+
+Languages
+Arabic (native), English (fluent)

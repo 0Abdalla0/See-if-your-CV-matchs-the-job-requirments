@@ -1,0 +1,36 @@
+{
+  "id": "data_scientist",
+  "title": "Data Scientist",
+  "years_experience_min": 2,
+  "must_have": [
+    "Python",
+    "pandas",
+    "scikit-learn",
+    "SQL"
+  ],
+  "nice_to_have": [
+    "XGBoost",
+    "Deep learning",
+    "Airflow",
+    "model deployment experience"
+  ],
+  "degree": "BSc in Statistics/CS/Math or equivalent",
+  "responsibilities": [
+    "Build predictive models and run experiments",
+    "Perform feature engineering and analysis",
+    "Deploy and monitor models in production"
+  ],
+  "keywords": [
+    "python",
+    "pandas",
+    "scikit-learn",
+    "xgboost",
+    "tensorflow",
+    "pytorch",
+    "sql",
+    "airflow",
+    "etl",
+    "feature engineering",
+    "a/b testing"
+  ]
+}

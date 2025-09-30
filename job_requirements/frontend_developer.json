@@ -1,0 +1,38 @@
+{
+  "id": "frontend_developer",
+  "title": "Frontend Developer",
+  "years_experience_min": 2,
+  "must_have": [
+    "HTML/CSS",
+    "JavaScript (ES6+)",
+    "React or Vue"
+  ],
+  "nice_to_have": [
+    "TypeScript",
+    "Accessibility (WCAG)",
+    "Performance optimization",
+    "Unit testing"
+  ],
+  "degree": "BSc in Software Engineering or equivalent",
+  "responsibilities": [
+    "Implement responsive, accessible UIs",
+    "Create reusable UI components and stories",
+    "Work with designers to polish UX"
+  ],
+  "keywords": [
+    "react",
+    "vue",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "tailwind",
+    "next.js",
+    "vite",
+    "webpack",
+    "lighthouse",
+    "accessibility",
+    "jest",
+    "rtl"
+  ]
+}

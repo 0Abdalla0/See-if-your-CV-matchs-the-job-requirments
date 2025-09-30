@@ -1,0 +1,27 @@
+# DevOps Engineer
+
+**Minimum years experience:** 3
+
+**Required:**
+
+- Terraform or CloudFormation
+- Kubernetes or Docker
+- CI/CD pipelines
+
+**Nice to have:**
+
+- Prometheus/Grafana
+- AWS/GCP/Azure
+- Ansible
+
+**Degree:** BSc in Computer Science or equivalent
+
+**Responsibilities:**
+
+- Manage IaC and cloud infrastructure
+- Automate deployments and observability
+- Improve reliability and incident response
+
+**Keywords for automated matching:**
+
+terraform, kubernetes, docker, jenkins, github actions, aws, gcp, ansible, prometheus, grafana, helm
