@@ -1,9 +1,8 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
-from crewai_tools import FileReadTool
 from typing import List
-
+from CVReadTool import CVReadTool
 
 @CrewBase
 class Hr():
@@ -16,7 +15,7 @@ class Hr():
         return Agent(
             config=self.agents_config['CVReaderAgent'],
             tools=[
-                FileReadTool()   
+                CVReadTool(),  
             ],
             verbose=True,
             memory=True,

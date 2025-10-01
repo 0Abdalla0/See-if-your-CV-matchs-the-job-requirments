@@ -46,7 +46,7 @@ def get_inputs():
     cv_tool = CVReadTool()
     file_reader = FileReadTool()
 
-    cv_path = "C:/Users/abdal/Downloads/pdfs/Abdalla Amr Elsayed .pdf"
+    cv_path = "C:/Users/abdal/hr/fake_cvs/02_frontend_developer_ali_hassan.txt"
     job_desc_path = "C:/Users/abdal/hr/job_requirements/frontend_developer.txt"
 
     cv_text = cv_tool._run(file_path=cv_path)
